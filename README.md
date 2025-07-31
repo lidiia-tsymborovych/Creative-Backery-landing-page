@@ -9,7 +9,7 @@ This project is based on the following Figma design:
 
 ## Live Preview
 
-[View the deployed project](https://lidiia-tsymborovych.github.io/Creative-Bakery-landing-page/)
+[View the deployed project](https://lidiia-tsymborovych.github.io/creative-bakery-landing-page/)
 
 ## Technologies Used
 
@@ -27,7 +27,7 @@ To run the project locally:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/lidiia-tsymborovych/Creative-Backery-landing-page.git
+git clone https://github.com/lidiia-tsymborovych/creative-bakery-landing-page.git
 cd Creative-Backery-landing-page
 ```
 
