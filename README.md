@@ -9,7 +9,7 @@ This project is based on the following Figma design:
 
 ## Live Preview
 
-[View the deployed project](https://lidiia-tsymborovych.github.io/Creative-Backery-landing-page/)
+[View the deployed project](https://lidiia-tsymborovych.github.io/Creative-Bakery-landing-page/)
 
 ## Technologies Used
 
