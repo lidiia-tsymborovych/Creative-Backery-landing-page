@@ -1,36 +1,73 @@
 # Creative Bakery Landing Page
 
-A responsive, modern landing page for Creative Bakery designed to showcase their products and services with a focus on clean code, usability, and flawless performance across all devices.
+A responsive and modern landing page for **Creative Bakery**, created to showcase their products and values through clean design, smooth interactions, and a pixel-perfect implementation of the original layout.
 
----
+## 🎨 Design Reference
 
-## Technologies & Features
+This project is based on the following Figma design:  
+[Bakerlab – Figma Design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
 
-- **SCSS (Sass):** Modular and organized styling for easy maintenance and scalability.
-- **BEM (Block, Element, Modifier):** Clear and predictable CSS naming methodology for scalable code.
-- **Responsive Design:** Fully optimized for desktop (1280px+), tablet (640px), and mobile devices (>320px), smoothly scaling down from a 1440px base design.
-- **AOS (Animate On Scroll):** Smooth scroll-triggered animations that enhance user engagement without overwhelming.
-- **Clean, Semantic HTML:** Improves SEO and accessibility.
-- **Performance Optimizations:** Minimal and efficient code for fast loading even on slower devices.
+## Live Preview
 
----
+[View the deployed project](https://lidiia-tsymborovych.github.io/Creative-Backery-landing-page/)
 
-## Getting Started
+## Technologies Used
 
-1. Clone the repository and navigate into the project folder:
-   git clone <your_repository_address>
-   cd creative-bakery-landing-page
+- **HTML5** – semantic, accessible markup  
+- **SCSS (Sass)** – modular and maintainable styles  
+- **BEM** – consistent and scalable CSS naming methodology  
+- **AOS (Animate On Scroll)** – scroll-based animations  
+- **Responsive Design** – optimized for desktop, tablet, and mobile  
+- **GitHub Pages** – used for deployment
 
-2. Install dependencies and start the development server:
-    npm install
-    npm start
+## 🚀 Getting Started
 
-3. Lint your code for style consistency:
+To run the project locally:
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/lidiia-tsymborovych/Creative-Backery-landing-page.git
+cd Creative-Backery-landing-page
+```
+
+2. Install dependencies
+```bash
+npm install # or yarn
+```
+
+3. Start development server
+```bash
+npm start
+
+or
+yarn start
+```
+
+4. Lint the code
+```bash
 npm run lint
+```
 
-4. Build and deploy to GitHub Pages:
+5. Build for production
+```bash
+npm run build
+```
+
+6. Deploy to GitHub Pages
+```bash
 npm run deploy
+```
 
+## ✨ Features
+Responsive layout for all devices
 
-Demo
-You can view the live demo here: [(https://lidiia-tsymborovych.github.io/Creative-Backery-landing-page/)]
+Clean and semantic code
+
+Scroll-triggered animations using AOS
+
+Follows BEM methodology for clarity
+
+Based on real UI design with close attention to detail
+
+Optimized for performance and accessibility
