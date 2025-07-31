@@ -20,6 +20,20 @@ This project is based on the following Figma design:
 - **Responsive Design** – optimized for desktop, tablet, and mobile  
 - **GitHub Pages** – used for deployment
 
+## ✨ Features
+
+Responsive layout for all devices
+
+Clean and semantic code
+
+Scroll-triggered animations using AOS
+
+Follows BEM methodology for clarity
+
+Based on real UI design with close attention to detail
+
+Optimized for performance and accessibility
+
 ## 🚀 Getting Started
 
 To run the project locally:
@@ -28,7 +42,7 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/lidiia-tsymborovych/creative-bakery-landing-page.git
-cd Creative-Backery-landing-page
+cd creative-bakery-landing-page
 ```
 
 2. Install dependencies
@@ -43,31 +57,3 @@ npm start
 or
 yarn start
 ```
-
-4. Lint the code
-```bash
-npm run lint
-```
-
-5. Build for production
-```bash
-npm run build
-```
-
-6. Deploy to GitHub Pages
-```bash
-npm run deploy
-```
-
-## ✨ Features
-Responsive layout for all devices
-
-Clean and semantic code
-
-Scroll-triggered animations using AOS
-
-Follows BEM methodology for clarity
-
-Based on real UI design with close attention to detail
-
-Optimized for performance and accessibility
